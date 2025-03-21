@@ -1,0 +1,368 @@
+Uri: https://use.fontawesome.com/releases/v5.5.0/css/all.css
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\releases\v5.5.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.dubaidutyfree.com/
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\index.htm
+Content Type: text/html
+
+Uri: https://www.dubaidutyfree.com/css/style.css?bust=24.11
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.dubaidutyfree.com/file/ccimg/hazardstripe.png
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\ccimg\hazardstripe.png
+Content Type: image/gif
+
+Uri: https://www.dubaidutyfree.com/file/general/DDF_QR_CARD.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\DDF_QR_CARD.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-airplane-landing-grey.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-airplane-landing-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-airplane-take-off.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-airplane-take-off.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-arrow-left-box.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-arrow-left-box.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-arrow-right-box.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-arrow-right-box.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-dashboard.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-dashboard.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-down-arrow-black.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-down-arrow-black.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-down-arrow.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-down-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-like.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-like.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-pre-orders.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-pre-orders.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-profile.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-profile.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-search-black.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-search-black.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-search-white.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-search-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-travel-excl-hover.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-travel-excl-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-travel-excl.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-travel-excl.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icon-two-tickets.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icon-two-tickets.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-address.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-address.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-discount-red.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-discount-red.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-discount.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-discount.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-Featured-MO.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-Featured-MO.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-Featured.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-Featured.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-lock-black.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-lock-black.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-lock.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-lock.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-new-arrivals-red.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-new-arrivals-red.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-new-arrivals.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-new-arrivals.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-parallel_tasks.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-parallel_tasks.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-parallel_tasks_red.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-parallel_tasks_red.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-send_mass_email-grey.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-send_mass_email-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-stack_of_money.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-stack_of_money.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-stack_of_money_red.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-stack_of_money_red.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-tags.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-tags.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/general/icons8-tags_red.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\general\icons8-tags_red.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/ArialNovaCond.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\ArialNovaCond.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/Graphik-Bold-App.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\Graphik-Bold-App.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/Graphik-Regular-App.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\Graphik-Regular-App.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/Graphik-Thin-App.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\Graphik-Thin-App.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/LibreBaskerville-Italic.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\LibreBaskerville-Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/LibreBaskerville-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\LibreBaskerville-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/RobotoCondensed-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\RobotoCondensed-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/Studio-Gothic-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\Studio-Gothic-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/Studio-Gothic-Extralight.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\Studio-Gothic-Extralight.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/Studio-Gothic-Medium.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\Studio-Gothic-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/Studio-Gothic-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\Studio-Gothic-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/webfonts/DubaiW23-Regular.woff
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\webfonts\DubaiW23-Regular.woff
+Content Type: application/octet-stream
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/winston-bold.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\winston-bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/thirdparty/winston-regular.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\thirdparty\winston-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dubaidutyfree.com/file/v2444547246119161230/css/common.css?occsite=siteUS
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\v2444547246119161230\css\common.css
+Content Type: text/css
+
+Uri: https://www.dubaidutyfree.com/file/v3311575860743670510/storeJS/24.11/main.js?bust=24.11
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\v3311575860743670510\storeJS\24.11\main.js
+Content Type: application/javascript
+
+Uri: https://www.dubaidutyfree.com/file/v4847802116576099056/storeJS/24.11/require.js?bust=24.11
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\v4847802116576099056\storeJS\24.11\require.js
+Content Type: application/javascript
+
+Uri: https://www.dubaidutyfree.com/file/v5990991442891598263/css/base.css?occsite=siteUS
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\v5990991442891598263\css\base.css
+Content Type: text/css
+
+Uri: https://www.dubaidutyfree.com/file/v6512591561371657474/storeJS/24.11/cc-ko-oj-extensions.js?bust=24.11
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\v6512591561371657474\storeJS\24.11\cc-ko-oj-extensions.js
+Content Type: application/javascript
+
+Uri: https://www.dubaidutyfree.com/file/v7574801737390791372/general/favicon.ico
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\v7574801737390791372\general\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.dubaidutyfree.com/file/v8362935979667881658/storeJS/24.11/store-libs.js?bust=24.11
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\file\v8362935979667881658\storeJS\24.11\store-libs.js
+Content Type: application/javascript
+
+Uri: https://www.dubaidutyfree.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\fonts\glyphicons-halflings-regular.eot
+Content Type: 
+
+Uri: https://www.dubaidutyfree.com/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: 
+
+Uri: https://www.dubaidutyfree.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: 
+
+Uri: https://www.dubaidutyfree.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\fonts\glyphicons-halflings-regular.woff
+Content Type: 
+
+Uri: https://www.dubaidutyfree.com/img/arrow_down_dark.png
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\img\arrow_down_dark.png
+Content Type: image/png
+
+Uri: https://www.dubaidutyfree.com/img/header-btm-line.png
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\img\header-btm-line.png
+Content Type: image/png
+
+Uri: https://www.dubaidutyfree.com/img/icons-32x32/icon-alert-32x32.png
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\img\icons-32x32\icon-alert-32x32.png
+Content Type: image/png
+
+Uri: https://www.dubaidutyfree.com/img/icons-32x32/icon-alert-alt-32x32.png
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\img\icons-32x32\icon-alert-alt-32x32.png
+Content Type: image/png
+
+Uri: https://www.dubaidutyfree.com/img/icons-32x32/icon-check-32x32.png
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\img\icons-32x32\icon-check-32x32.png
+Content Type: image/png
+
+Uri: https://www.dubaidutyfree.com/img/icons-32x32/icon-info-32x32.png
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\img\icons-32x32\icon-info-32x32.png
+Content Type: image/png
+
+Uri: https://www.dubaidutyfree.com/shared/css/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\shared\css\font-awesome-4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: 
+
+Uri: https://www.dubaidutyfree.com/shared/css/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\shared\css\font-awesome-4.7.0\fonts\fontawesome-webfont.eot
+Content Type: 
+
+Uri: https://www.dubaidutyfree.com/shared/css/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\shared\css\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dubaidutyfree.com/shared/css/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\shared\css\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: 
+
+Uri: https://www.dubaidutyfree.com/shared/css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\shared\css\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://www.dubaidutyfree.com/shared/css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.dubaidutyfree.com\shared\css\font-awesome-4.7.0\fonts\fontawesome-webfont.woff
+Content Type: 
+
